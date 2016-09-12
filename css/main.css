@@ -1,0 +1,216 @@
+
+.fondo{
+
+	/*fondo-uno*/
+	background-image: url(../img/fondo1.jpg);
+	background-repeat: repeat;
+	height: 2000px;
+		max-width: 100%;
+
+}
+
+
+
+
+
+.lista-contactos{
+
+	color: white;
+	font-size: 25px;
+	margin-top: 50px;
+	margin-left: 110px;
+	font-stretch: 2em;
+	padding: 20px;
+	font-family: 'Lobster Two', cursive;
+	background-color: black;
+	text-decoration-style: none;
+}
+
+.lista{
+padding-left: 150px;
+display: inline-block;
+}
+
+
+.circulo{
+margin-top: 70px;
+margin-left: 60px;
+border-radius: 200px 200px 200px 200px;
+border: 10px solid #ffffff;
+width: 300px;
+height: 300px;
+background-color: #E7B60D;
+text-align: center;
+}
+
+.boton{
+font-family:'Dosis', sans-serif;
+}
+
+.sumate{
+	font-weight: bolder;
+	text-decoration: none;
+	font-size: 30px;
+	color: black;
+	margin-top: 10px;
+}
+.lab{
+	margin-top: 120px;
+	font-size: 30px;
+	color: white;
+}
+
+.contiene{
+	display: inline-block;
+margin-top: 80px;
+text-align: center;
+}
+.section-dos{
+				align-content: center;
+		text-align: center;
+		align-items: center;
+}
+
+.imagenes{
+
+		width: 250px;
+	height: 250px;
+	border-radius: 30px;
+	border: 5px #E8B70D solid;
+}
+.negri{
+	font-weight: bolder;
+}
+
+.texto-foto{
+	width: 90%;
+	margin-top: 10px;
+	background: #E8B70D;
+	padding: 3px;
+	border-radius: 100px;
+	border: 2px solid #E8B70D;
+box-shadow: 11px 13px 32px -10px rgba(204,165,10,0.47);
+font-family:'Dosis', sans-serif;
+
+}
+
+.boton-mas{
+	font-family: 'Lobster Two', cursive;
+	font-size: 20px;
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.section-tres{
+	margin-top: 100px;
+	height: 400px;
+	background-color:#00FFFF; 
+	align-content: center;
+
+
+}
+.dayana{
+	margin-top: 60px;
+	font-family: 'Lobster Two', cursive;
+	font-size: 50px;
+	color:black;
+	text-align: center;
+}
+.circulo-foto{
+	margin-top: 50px;
+margin-left: 100px;
+border-radius: 200px 200px 200px 200px;
+border: 10px solid black;
+width: 200px;
+height: 200px;
+}
+ .circulo-foto{
+ 	background-image: url(../img/dayana.jpg);
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+ 	width: 200px;
+ 	height: 200px;
+ }
+
+.parrafo-dayana{
+	padding-left: 110px;
+	margin-top: 30px;
+	margin-right: 60px;
+	text-align: center;
+	width: 500px;
+	font-family:'Dosis', sans-serif;
+}
+.dayana-dos{
+	margin-top: 10px;
+}
+
+.laboratoria-negrita{
+font-weight: bolder;
+text-decoration: none;
+color: black;
+}
+.gracias{
+	margin-top: 5px;
+}
+
+.section-cuatro{
+		align-content: center;
+		text-align: center;
+		align-items: center;
+	height: 600px;
+	background-color:#E8B70D; 
+	border-bottom: none;
+}
+
+.logo-lb{
+
+margin-top: 60px;
+	width: 350px;
+	height: 100px;
+	max-width: 100%
+}
+
+.contiene-lab{
+			align-content: center;
+		text-align: center;
+		align-items: center;
+font-family:'Dosis', sans-serif;
+	text-align: center;
+}
+
+
+.titulo-lab{
+
+	margin-top: 10px;
+	font-size: 24px;
+}
+.impacto-lab{
+	font-size: 30px;
+	font-weight: bolder;
+	margin-top: 20px;
+}
+.parrafo-lab{
+	font-size: 18px;
+	margin-top: 20px;
+margin-left:295px;
+	width: 700px;
+}
+
+
+
+footer{ 
+	font-family:'Dosis', sans-serif;
+	font-size: 20px;
+	padding-left: 500px;
+	padding-top: 100px;
+	height: 60px;
+	border-top: none;
+
+	background-color:#00FFFF; 
+	
+}
+
+
+
+/*font-family: 'Lobster Two', cursive;*/
+/*font-family: 'Dosis', sans-serif;*/
